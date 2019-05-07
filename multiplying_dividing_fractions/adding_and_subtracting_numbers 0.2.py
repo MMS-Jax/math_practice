@@ -2,4 +2,4 @@
 
 print("welcome to Math-Ro-Bot I can Add and Subtract Whole Numbers for you!\n")
 user_name = input("What's your name? [Type your name and press ENTER.]\n")
-print("Hello", user_name, "How is your day going?")
+print("Hello", user_name, "How is your day going?\n")
