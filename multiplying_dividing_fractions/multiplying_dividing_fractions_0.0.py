@@ -1,1 +1,0 @@
-# Jevon R., Multiplying abd Dividing Fractions, 05/07/2019, version 0.0
