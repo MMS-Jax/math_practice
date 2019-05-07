@@ -1,4 +1,5 @@
-# Serinity B., Multiplying and divinding Fractions, 05/06/2019
+# Serinity B., Multiplying and divinding Fractions, 05/06/2019 version 0.2
 
-print("hello! My Name Is MathHelper and I will multiply and divide fractions.\n")
-Print("In order to multiply fractions, you need to know the numerator and the denominator of both fractions.")
+print("Hello, welcome to MathHelper. I can multiply and divide fractions for you!\n")
+user_name=input("What is your name? [Type your name and press ENTER]\n")
+print("Hello", user_name,"how are you today?\n")
