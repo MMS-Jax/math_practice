@@ -1,4 +1,5 @@
-# Joseph W., Multiplying and Dividing Fractions, 05/06/2019
+# Joseph W., Multiplying and Dividing Fractions, 05/06/2019, version 0.1
 
-print ("Hello! My name is PCBrine. I will multiply and divide fractions for you.\n")
-print ("In order for me to know how to multiply and divide fractions, I need to know numerator and denominator.")
+print ("Hello! My name is Fractionator.   I will multiply and divide fractions for you.\n")
+user_name = input("What is your name? [Type your name and press ENTER.]\n")
+print ("Hello, ", user_name," how are you today?")
