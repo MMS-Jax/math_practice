@@ -1,3 +1,2 @@
-# This program will multiply and divide proper and improper fractions. 
-
-
+# Multiplying and Diving Fractions by Einxhel D. 05/06/19     
+                  
