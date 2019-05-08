@@ -9,15 +9,17 @@ print("Okay, I am better now. \n")
 print("For this program, I will need a numerator and denominator for both numbers.")
 
 # Variables for fraction 0.
-numerator0 = 0
-denominator0 = 0
-print("The first fraction is", numerator0 , "/" , denominator0  './n')
+numerator0 = int(input("Type the first numerator and press ENTER. \n"))
+denominator0 = int(input("Type the first denominator and press ENTER. \n"))
+print("The first fraction is", numerator0 , "/" , denominator0 ,"\n")
 # Variables for fraction 1.
-numerator1 = 0
-denominator1 = 0
-print("The first fraction is", numerator1 , "/" , denominator1  './n')
+numerator1 = int(input("Type the second numerator and press ENTER. \n"))
+denominator1 = int(input("Type the second denominator and press ENTER. \n"))
+print("The second fraction is", numerator1 , "/" , denominator1 ,'.\n')
 print("When multiplying two fractions you multiply the two numerators together. \n")
-print('Then you will multiply the denominators together too.')
+print('Then you will multiply the denominators together too. \n')
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 print("The new fraction is" , new_numerator , "/" , new_denominator , "\n")
+decimal_version = new_numerator / new_denominator
+print("The decimal version of that is" , decimal_version , "\n")
