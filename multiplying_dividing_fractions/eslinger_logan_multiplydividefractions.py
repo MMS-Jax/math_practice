@@ -1,4 +1,4 @@
-#Multiplying and dividing fractions by Logan E. Version 3.8
+#Multiplying and dividing fractions by Logan E. Version 4.0
 
 print("Hello, welcome to fraction calculator 1234. I will multiply and divide fractios for you.\n")
 user_name = input("What is your name? [Type your name and press enter]\n")
@@ -27,7 +27,7 @@ print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
 # This is where the division of fractions will start.
 
-print("To divide fractions, you will multiply using the reciprocal or inverseof the second fraction.\n")
+print("To divide fractions, you will multiply using the reciprocal or inverse of the second fraction.\n")
 
 new_numerator1 = numerator0 * denominator1
 new_denominator1 = denominator0 * numerator1
