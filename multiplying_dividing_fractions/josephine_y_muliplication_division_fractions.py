@@ -1,4 +1,4 @@
-# Josephine Y. multiplying and dividing fractions, 05/06/19
+# Josephine Y. multiplying and dividing fractions, 05/06/19 0.7
 
 print ("Hello! My name is Barry B. Benson and i will help you muliply and divide fractions.\n")
 print('In order to muliply or divide fractions you will need to input your numerator and denominator')
@@ -25,3 +25,10 @@ new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
 print("The new fraction is", new_numerator, "/", new_denominator, ".\n")
+
+#This is where the divisions of fractions will start.
+numerator0=input
+denominator0=input
+numerator1=input
+denominator1=input
+print('To divide a fraction, you will multiply using the reciprical or inverse of the second fraction. \n')
