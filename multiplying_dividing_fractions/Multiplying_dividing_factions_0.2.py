@@ -2,4 +2,4 @@
 
 print("Hello, welcome to the Fraction-Bomber 3000.   I will multiply and divide those hard fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
-print("Hello,", user_name,"how are you today?")
+print("Hello,", user_name,"how are you today?\n")
