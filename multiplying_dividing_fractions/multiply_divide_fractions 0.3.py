@@ -8,7 +8,7 @@ print("In order to run the program, I need to know the numerator and denomenator
 
 # Variables for fraction 0.
 numerator0 = 0
-numerator1 = 0
-# Variables for fraction 1.
 denomenator0 = 0
+# Variables for fraction 1.
+numerator1 = 0
 denomenator1 = 0
