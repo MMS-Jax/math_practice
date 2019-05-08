@@ -1,5 +1,8 @@
 # Ryan K., Multiplying and Dividing Fractions, 05/06/2019 
-
+#Introduction
+print("Hi! My name is NoobMaster69! I will show you how to multiply fractions!")
+Username = input("What is your name? [Type Your Name, and then type ENTER]")
+print("Hello", Username, "! How are you?")
 #Numerators
 numerator1 = 3
 numerator2 = 7
