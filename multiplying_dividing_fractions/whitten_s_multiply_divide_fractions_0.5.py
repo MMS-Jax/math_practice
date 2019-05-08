@@ -16,5 +16,12 @@ numerator1 = 0
 denominator1 = 0
 print("The second fraction is," , numerator1,"/",denominator1,".\n")
 
+print("To multiply fractions, you multiply the numerators together.\n")
+print("After that, you'll multiply the denominators together.\n")
+
+new_numerator = numerator0 * numerator1
+new_denominator = denominator0 * denominator1
+
+print("The new fraction is,", new_numerator,"/", new_denominator,".\n")
 
 
