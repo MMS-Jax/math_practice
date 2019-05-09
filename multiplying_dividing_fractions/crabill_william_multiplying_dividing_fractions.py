@@ -39,3 +39,5 @@ new_numerator1 = numerator2 * denominator3
 new_denominator1 = denominator2 * numerator3
 
 print("The new divided fraction is",new_numerator1,"/",new_denominator1,".\n")
+
+print("Thank you for using ChickenFractionator, have a nice day nerd!")
