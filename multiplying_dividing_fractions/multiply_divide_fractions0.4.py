@@ -1,4 +1,4 @@
-# Haris H., Multiplying and Dividing Fractions, 05/07/19, version 0.3
+# Haris H., Multiplying and Dividing Fractions, 05/07/19, version 0.4
 
 print("Hello, welcome to Beatit Bot 9000. I can multiply and divide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
