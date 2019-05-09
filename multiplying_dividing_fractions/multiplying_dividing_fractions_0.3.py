@@ -4,14 +4,11 @@ print("Hello, welcome to Fraction-Bot 9000.   I can multiply and divide fraction
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
 print("Hello,", user_name,"how are you today?\n")
 
-print("For this program, I need to know the numerator and the denominator for both fractions.\n")
+print ("For this program, I need to know the numerator and denomnator for both fractions.\n")
 
-# Variables for fraction 0. 
+#Variable for fraction 0.
 numerator0 = 0
-denominator0 = 0
-print("The first fraction is", numerator0,"/",denominator0,".\n")
-
-# Variables for fraction 1. 
-numerator1 = 0
-denominator1 = 0
-print("The first fraction is", numerator1,"/",denominator1,".\n")
+denomnator0 = 0
+#Variables for frcation 1.
+numerator1  = 0
+denomnator1 = 0
