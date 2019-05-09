@@ -3,3 +3,5 @@
 print("Hi, I am working on multiplying and dividing fractions.\n ")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
 print("Hello, My name is Deangela", user_name,"how was your day?")
+
+print("I need to know the numerator and denominator for both fractions.")
