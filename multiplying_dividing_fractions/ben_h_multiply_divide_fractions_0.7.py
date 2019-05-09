@@ -1,4 +1,4 @@
-# Ben H., Multiplying and Divivding Fractions, 05/06/2019, version 0.5
+# Ben H., Multiplying and Divivding Fractions, 05/06/2019, version 0.7
 
 print("Hello! My name is Fraction Master- Over 9000. I will ultiply and divide fractions for you!\n ")
 user_name = input("What is your name is your name? Ben Hipp \n")
@@ -25,5 +25,6 @@ new_denominator = denominator0 * denominator1
 print("The first fraction is", new_numerator,"/", new_denominator,".\n")
 
 # This is where the division  of the fractions will start. 
-pie+ 22 / 7
+pie = 22 / 7
 print(pie)
+print("To divide a fraction, you will multiply using the reciporical or inverse of the second fraction. \n")
