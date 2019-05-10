@@ -15,3 +15,10 @@ print("The first fraction is", numerator0,"/",denominator0,".\n")
 numerator1 = 0
 denominator1 = 0
 print("The second fraction is", numerator1,"/",denominator1,".\n")
+
+
+print("When multiplying fractions you multiply the two numerators together.\n")
+print("Then you will multiply the denominators together.\n")
+
+new_numerator
+new_denominator
