@@ -1,4 +1,4 @@
-# Kailey D., Multiplying and Dividing Fractions, 05/06/2019, version 0.3
+# Kailey D., Multiplying and Dividing Fractions, 05/06/2019, version 0.4
 
 print("Hello! My name is FattoCattoPugFraction and I will multiply and Divide Fractions for you.\n")
 user_name = input("What is your name? [ Type your name and press ENTER.]\n")
@@ -14,4 +14,4 @@ print("The fisrt fraction is ", numerator0, "/",denominator0,".\n")
 # Variables for fraction 1.
 numerator1 = 0
 denominator1 = 0
-print("The first fraction is ", numerator1, "/",denominator1,".\n")
+print("The second fraction is ", numerator1, "/",denominator1,".\n")
