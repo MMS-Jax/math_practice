@@ -7,3 +7,5 @@ numerator0 = 0
 numerator1 = 0
 denominator0 = 0
 denominator1 = 0
+user_name = input('What is your name? [Type your name and press ENTER.]\n')
+print('Hello', user_name, 'How are you today?')
