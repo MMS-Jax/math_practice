@@ -1,4 +1,4 @@
-# Ryan K., Multiplying and Dividing Fractions, 05/05/2019
+# Ryan K., Multiplying and Dividing Fractions, 05/05/2019 version,0.3
 
 print("hello! My Name Is MathBot and I Will multiply and divide fractions.\n")
 print("In Order to multiply fractions, you need too  know the numerator and denomerator of the fractions.")
