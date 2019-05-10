@@ -26,10 +26,12 @@ denominator1 = int(input("Please type in the second denominator and press ENTER.
 
 print("The first fraction is,", numerator0,"/",denominator0,".\n" )
 print("The second fraction is," , numerator1,"/",denominator1,".\n")
-0
+
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
 print("The new fraction is,", new_numerator,"/", new_denominator,".\n")
 
-print("Good job,", user_name, "you aren't a complete failure. I'm sincerely proud of you.")
+print("Good job,", user_name, ", you aren't a complete failure. I'm sincerely proud of you.")
+
+# This is where the division of fractions will start.
