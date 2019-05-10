@@ -9,7 +9,7 @@ print("for this program, i need to know the numerator and denominator for each f
 #variables for fraction 0.
 numerator0 = 0
 denominator0 = 0
-print("the first fraction is", numerator0,"/",denominator0,"./n")
+print("the first fraction is", numerator0,"/",denominator0,".\n")
 
 # variables for fraction 1.
 numerator1 = 0
