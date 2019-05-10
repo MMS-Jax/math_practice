@@ -2,4 +2,4 @@
 
 print ("Hello, welcome to fraction cowboy 69.   I can multiply and divide fractions for you!\n")
 user_name = input ("what is your name? [Type your name and press ENTER.]\n")
-print ("Hello! ,", user_name ,"How are you today?")
+print ("Hello! ,", user_name ,"How are you today?\n")
