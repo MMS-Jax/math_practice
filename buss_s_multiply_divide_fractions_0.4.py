@@ -6,7 +6,7 @@ print("Hello", user_name,"how are you today?\n")
 
 print("For this program, i need to know the numerator and the denominator for both fractions.\n")
 
-3 Variables for fraction 0. 
+# Variables for fraction 0. 
 numberatorA = 0
 denominatorB = 0
 print("The first fraction is", numberator0,"/",denominator0,".\n")
@@ -15,3 +15,9 @@ print("The first fraction is", numberator0,"/",denominator0,".\n")
 numberator1 = 0
 denominator1 = 0
 print("The second fraction is", numberator1,"/",denominator1,".\n" ")
+
+print("When multiplying fractions you multiply the two numerators together.\n")
+print("Then you will multiply the two denominators together.\n")
+
+new_numerator = numberator0 * numberator1
+new_denominator = 
