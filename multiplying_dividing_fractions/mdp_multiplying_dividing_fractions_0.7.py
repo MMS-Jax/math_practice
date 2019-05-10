@@ -1,4 +1,4 @@
-# Marrio P., Multiplying and fractions 05/06/2019, version 0.5
+# Marrio P., Multiplying and fractions 05/06/2019, version 0.7
 
 print("Hello, welcome to Fraction-Bot 1000.  I can mulitply and divide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
