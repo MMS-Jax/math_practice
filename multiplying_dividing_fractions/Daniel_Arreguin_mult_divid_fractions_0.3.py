@@ -1,4 +1,4 @@
-# Multiplying and Dividing Fractions By Daniel A. 05/06/19 Version 0.2
+# Multiplying and Dividing Fractions By Daniel A. 05/06/19 Version 0.3
 
 print("Welcome to the Math bot 6IX9INE I can MULTIPLY AND DIVIDE FRACTIONS!\n ")
 user_name = input("What is your name? [type your name press ENTER.]\n ")
