@@ -5,9 +5,9 @@ user_name = input("what is your name. [Type your name herte and press ENTER.]\n"
 print("Hello", user_name, "how are you today?")\
 
 print("For this program Ineed to know the numorator denominator for both fractions.\n")
-
+# Variable for fraction 0
 numorator0
 denominator0
-
+# Variables for fraction 1
 numorator1
 denominator1
