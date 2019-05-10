@@ -28,8 +28,7 @@ print("The new fractions is",new_numerator,"/",new_denominator,".\n")
 
 #This is where the division of the fractions will start. 
 
-pie= 22/7
-print(pie)
+
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction fraction.\n")
 
 
