@@ -5,4 +5,3 @@ user_name = input("what is your name going to be? [type what your name is then p
 print("hello,", user_name,"how is your day?\n")
 
 
-kris
