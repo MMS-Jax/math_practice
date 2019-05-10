@@ -12,9 +12,9 @@ denominator1 = int(input("What is the second denominator?[Type number and press 
 print("Then your second fraction must be",numerator1,"/",denominator1,".")
 
 #where mutiplying/dividing happens
-print("To multiply these fractions enter 'Multiply' to divide them enter 'Divide'.")
+print("To multiply these fractions enter '0' to divide them enter '1'.")
 answer= input()
-if answer == "Multiply":
+if answer == "0":
     new_numerator = numerator0 * numerator1
     new_denominator = denominator0 * denominator1
     print("Then your new fraction must be",new_numerator,"/",new_denominator,".")
