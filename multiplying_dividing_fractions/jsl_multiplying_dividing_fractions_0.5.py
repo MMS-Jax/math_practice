@@ -23,3 +23,8 @@ new_numerator =  numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
 print("The new fraction is",new_numerator,"/",new_denominator, ". \n")
+
+#This is where the divison of the fraction will start. 
+pie = 22/7 
+print(Pie)
+
