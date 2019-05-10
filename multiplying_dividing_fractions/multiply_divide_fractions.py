@@ -1,6 +1,6 @@
 # This program will multiply and divide proper and improper fractions. 
 
-print("Hello, Welcome to FractionBot 5000.\n") # Change this code to say something different.
+print("Hello, Welcome to the Fraction Calculator.\n") # Change this code to say something different.
 print("I am fully capable of multiplying and dividing proper and improper fractions.\n")
 
 numerator0 = int(input("What is the first numerator? [Type a number and press enter.] ")) # Make sure it's an integer!
