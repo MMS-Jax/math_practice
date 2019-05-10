@@ -2,4 +2,6 @@
 
 print("Hello, welcome to Fraction-Bot 9000.  I can multiply and divided fractions for you!\n  ")
 user_name = input("What is your name?  [Type your name and press ENTER.]\n" )
-print("hello, ", user_name, " How are you today?\n" )
+print("Hello, ", user_name, " How are you today?\n" )
+
+print("For this program, I need to know the numerator and the denominator for both fraction.\n")
