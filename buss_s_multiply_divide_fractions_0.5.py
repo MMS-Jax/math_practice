@@ -1,4 +1,4 @@
-# Serinity B., Multiplying and divinding Fractions, 05/06/2019 version 0.4
+# Serinity B., Multiplying and divinding Fractions, 05/06/2019 version 0.5
 
 print("Hello, welcome to MathHelper. I can multiply and divide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER]\n")
