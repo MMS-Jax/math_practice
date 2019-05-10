@@ -19,6 +19,6 @@ if answer == "Multiply":
     new_denominator = denominator0 * denominator1
     print("Then your new fraction must be",new_numerator,"/",new_denominator,".")
 else:
-    new_numerator = numerator0 / numerator1
-    new_denominator = denominator0 / denominator1
+    new_numerator = numerator0 / denominator1
+    new_denominator = denominator0 / numerator1
     print("Then your new fraction must be",new_numerator,"/",new_denominator,".")
