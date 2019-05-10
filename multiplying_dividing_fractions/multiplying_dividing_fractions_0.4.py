@@ -12,6 +12,14 @@ denominator0 =  0
 print("The first fraction is",numerator0,"/",denominator0,".\n")
 
 # Varaibles for fraction 1.
-numerator1 = 0
-denominator1 = 0
+numerator1 = 1
+denominator1 = 1
 print("The second fraction is",numerator1,"/",denominator1,".\n")
+
+print("When multipying fractions you multiply the two numerators together")
+print("Then you will multiply the two denominators together.\n")
+
+new_numerator = numerator0 * numerator1
+new_denominator = numerator * denominator1
+
+print("The new fraction is", new_numerator,"/",new_denominator,".\n")
