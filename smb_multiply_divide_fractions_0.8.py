@@ -4,7 +4,7 @@ print("Hello, welcome to MathHelper. I can multiply and divide fractions for you
 user_name = input("What is your name? [Type your name and press ENTER]\n")
 print("Hello", user_name,"how are you today?\n")
 
-print("For this program, i need to know the numerator and the denominator for both fractions.\n")
+print("For this program, I need to know the numerator and the denominator for both fractions.\n")
 
 # Variables for fraction 0. 
 numerator0 = 0
