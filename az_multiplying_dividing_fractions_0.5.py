@@ -1,4 +1,4 @@
-# Andi Z., Mutiplying and Dividing 05/06/19, version 0.3
+# Andi Z., Mutiplying and Dividing 05/06/19, version 0.5
 
 print("Hello, welcome to Soviet Sausage.   I can multiply and divide fraction for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
