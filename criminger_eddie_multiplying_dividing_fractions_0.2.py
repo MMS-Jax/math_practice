@@ -1,8 +1,8 @@
 # Eddie c. Multiplying and Dividing Fractions 5-9-19 version 0.1
 
-print("This program is designed to multiply and divide fractions./n")
-user_name = input ("What is you username? [Type your username and press enter]/n") 
-print("Greetings,", user_name," how are you today?)
+print("Hello, welcome to Fraction-Bot 9000.   I can multiply and divide fractions for you!\n")
+user_name = input("What is your name? [Type your name and press ENTER.]\n")
+print("Hello,", user_name,"how are you today?\n")
 
 print("For this program, I need to know the numerator and the denominator for both fractions.\n")
 
@@ -20,3 +20,9 @@ print("When multiplying fractions you multiply the two numerators together.\n")
 print("Then you will multiply the two denominators together.\n")
 
 numerator0 = int(input("Type the first numerator and press enter.\n")) 
+numerator1 = int(input("Type the second numerator and press enter.\n"))
+
+denominator0 = int(input("Type the first denominator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
+
+print("The first fraction is", numerator0,"/",denominator0,".\n")
