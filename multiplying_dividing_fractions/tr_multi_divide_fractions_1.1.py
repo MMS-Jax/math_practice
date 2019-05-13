@@ -34,8 +34,6 @@ new_denominator = denominator0 * denominator1
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
 # This is where the division of the fractions will start. You will need to change this code!
-pie = 22 / 7
-print(pie)
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fracton.\n")
 
 numerator0 = int(input("Type the first numerator and press enter.\n"))
@@ -49,9 +47,4 @@ new_denominator = denominator0 * numerator1
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
-numerator0 = int(input("Type the first numerator and press enter.\n"))
-numerator1 = int(input("Type the second numerator and press enter.\n"))
-
-denominator0 = int(input("Type the first denominator and press enter.\n"))
-denominator1 = int(input("Type the second denominator and press enter.\n"))
 
