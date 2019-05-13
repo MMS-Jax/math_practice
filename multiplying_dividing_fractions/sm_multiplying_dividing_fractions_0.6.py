@@ -1,4 +1,4 @@
-# Shruthi Manikandan, Multiply and Divide Fractions, 05/06/19, version 0.4
+# Shruthi Manikandan, Multiply and Divide Fractions, 05/06/19, version 0.6
 
 print("Welcome to my program! Would you like to see a magic trick involving fractions?\n")
 user_name = input("What shall I refer to you as? (Type it in and press enter)\n")
@@ -37,6 +37,7 @@ new_denominator = denominator0 * denominator1
 print("The new fraction is", new_numerator, "/", new_denominator, ".\n")
 
 # This is where division will begin.
+print("This is the value of pie (pi)!")
 pie = 22/7
 print(pie, "\n")
 print("To divide a fraction, you will multiply using the reciprocal/inverse of the second fraction.\n")
