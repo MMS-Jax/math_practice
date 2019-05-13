@@ -26,7 +26,7 @@ denominator0 = int(input("Type the first denominator and press ENTER.\n"))
 denominator1 = int(input("Type the second denominator and press ENTER.\n"))
 
 print("The first fraction is", numerator0,"/",denominator0,".\n")
-print("The second fraction is", numerator1,"/0",denominator1,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
@@ -49,7 +49,7 @@ denominator0 = int(input("Type the first denominator and press ENTER.\n"))
 denominator1 = int(input("Type the second denominator and press ENTER.\n"))
 
 print("The first fraction is", numerator0,"/",denominator0,".\n")
-print("The second fraction is", numerator1,"/0",denominator1,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
