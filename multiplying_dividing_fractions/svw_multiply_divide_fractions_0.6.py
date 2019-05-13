@@ -1,4 +1,4 @@
-# Sheyna W., Multiplying and Dividing Fractions, 05/06/19, Version 0.3
+# Sheyna W., Multiplying and Dividing Fractions, 05/06/19, Version 0.5
 
 print("Hello, my name is Dr. Phil the Fraction God, and I was made to consult you on multiplying and dividing fractions. Nice to meet you.\n ")
 user_name = input("First, I need to know what your name is. Please type it into the space provided. [Type your username and press ENTER.] \n")
@@ -40,7 +40,9 @@ pie = 22 / 7
 
 print(pie)
 
-print("When you work to divide fractions, you multiply using the reciprocal, or the inverse of the second fraction.\n")
+print("When you work to divide fractions, you multiply using the reciprocal, or the inverse of the second fraction. A bit weird, I know.\n")
+
+print("With that being said, the numerator of the first fraction will be multiplied with the denominator of the second fraction.")
 
 numerator2 = int(input("Please type in the first numerator and press ENTER.\n"))
 numerator3 = int(input("Please type in the second numerator and press ENTER.\n"))
@@ -52,3 +54,5 @@ new_numerator1 = denominator2 * numerator3
 new_denominator1 = numerator2 * denominator3
 
 print("The new fraction is,", new_numerator1,"/", new_denominator1,".\n")
+
+print("Thank you so much for using my services as a way to... well, not be dumb?")
