@@ -37,3 +37,13 @@ print("the new fraction is",new_numerator,"/", new_denominator ,".\n")
 pie = 22 / 7
 print(pie)
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
+
+numerator1 = int(input("Type the first numerator and press enter.\n"))
+numerator0 = int(input("Type the second numerator and press enter.\n"))
+
+denominator1 = int(input("Type the first denominator and press enter.\n"))
+denominator0 = int(input("Type the second denominator and press enter.\n"))
+
+print("The first fraction is", numerator0,"/",denominator0,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
+
