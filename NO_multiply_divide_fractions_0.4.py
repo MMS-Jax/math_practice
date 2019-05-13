@@ -1,4 +1,4 @@
-# Nolan.O, Multiplying and dividing Fractions, 05/06/2019, version 0.3
+# Nolan.O, Multiplying and dividing Fractions, 05/06/2019, version 0.4
 
 print("Hello! My name is yung fraction gawd. I can multiply and devide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
@@ -14,4 +14,4 @@ print("The first fraction is", numerator0,"/",Denominator0,".\n")
 # Variables for fractions 1.
 numerator1 = 0
 denominator1 = 0
-print("The first fraction is", numerator1,"/",Denominator1,".\n")
+print("The second fraction is", numerator1,"/",Denominator1,".\n")
