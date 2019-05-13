@@ -1,4 +1,4 @@
-#Ashley L., Multiplying and Dividing Fractions, 05/06/2019, version 0.5
+#Ashley L., Multiplying and Dividing Fractions, 05/06/2019, version 0.7
 
 print("Hello, My name is Mathemater and i will multiply and divide fractions.\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
@@ -33,3 +33,4 @@ print("The new fraction is", new_numerator,"/", new_denominator, ".\n")
 # This is where the diviion of the fractions will start.
 pie = 22 / 7
 print(pie)
+print("To divide a fraction, you need to multiply using the reciprocal or inverse of the second fractions.\n")
