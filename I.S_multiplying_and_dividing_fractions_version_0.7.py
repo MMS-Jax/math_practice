@@ -34,6 +34,5 @@ new_denominator = denominator0 * denominator1
 print("the new fraction is", new_numerator,"/",new_denominator,".\n")
 
 #this is where the division of the fractions will start.
-pie = 22 / 7
-print(pie)
+
 print("to divide a fraction, you will multiply using the reciprocal or inverse of the secooned fraction.\n")
