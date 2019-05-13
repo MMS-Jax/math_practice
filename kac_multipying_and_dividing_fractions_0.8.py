@@ -1,6 +1,6 @@
 # kasey.c, Multiplying and Dividing Fractions, 05/10/2019, version 0.8
 
-print("Hello, welcome to Fraction-Bot 9000.   I can multiply and divide fractions for you!\n")
+print("Hello, welcome to Fraction-Bot 900.   I can multiply and divide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
 print("Hello,", user_name,"how are you today?\n")
 
@@ -28,12 +28,12 @@ denominator1 = int(input("Type the second denominator and press enter.\n"))
 print("The first fraction is", numerator0,"/",denominator0,".\n")
 print("The second fraction is", numerator1,"/",denominator1,".\n")
 
-new_numerator = numerator0 * numerator1
+new_numerator =  numerator * numerator1
 new_denominator = denominator0 * denominator1
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
-# This is where the division of the fractions will start. You will need to change this code!
-pie = 22 / 7
-print(pie)
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
+numerator0 * denominator1
+numerator1 * denominator0
+print("The new fraction is", new_numerator,"/",new_denominator,".\n"
