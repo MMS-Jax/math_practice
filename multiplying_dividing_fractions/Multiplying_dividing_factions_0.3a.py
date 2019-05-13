@@ -1,4 +1,4 @@
-# Ethan B., Multiplying and Dividing Fractions, 05/06/2019, version 0.3
+# Ethan B., Multiplying and Dividing Fractions, 05/06/2019, version 0.3a
 
 print("Hello, welcome to the Fraction-Bomber 3000.   I will multiply and divide those hard fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
@@ -14,4 +14,4 @@ print("The first fraction is",numerator0, "/", denominator0, ". \n" )
 # Variables for fraction 1
 numerator1 = 0
 denominator1 = 0
-print("The first fraction is",numerator1, "/", denominator1, ". \n" )
+print("The second fraction is",numerator1, "/", denominator1, ". \n" )
