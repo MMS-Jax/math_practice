@@ -1,4 +1,4 @@
-# Powell C., Multiplying and Divide Fractions, 05/06/2019 Ver 0.4
+# Powell C., Multiplying and Divide Fractions, 05/06/2019
 
 print("Hello, my name is Youngmathboi. I will multiply and divide fractions for you.\n")
 user_name = input("What is your name? [Type your name and press ENTER.\n")
@@ -15,6 +15,3 @@ print("The first fraction is", numerator0,"/", denominator0,".\n")
 numerator1 = 0
 denominator1 = 0
 print("The second fraction is", numerator1,"/", denominator1,".\n")
-
-print("When multiplying fractions you multiply the two numerators together.\n")
-print("Then you need to multiply the two denominators together.\n")
