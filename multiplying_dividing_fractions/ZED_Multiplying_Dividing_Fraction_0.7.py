@@ -1,4 +1,4 @@
-# Zayne D. Program will Multiply and Divide Fractions, 5/09/2019, Version 0.6
+# Zayne D. Program will Multiply and Divide Fractions, 5/09/2019, Version 0.7
 
 print('Hi, Wlecome to Dividing/Multiplying Fractions. I will multiply any fraction you give me. \n')
 user_name = input('What is your name? (Type the name you prefer and then press ENTER.) \n')
@@ -34,3 +34,4 @@ new_denominator = denominator0 * denominator1
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 pie = 22 / 7
 print(pie)
+print('To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction. \n')
