@@ -17,7 +17,7 @@ denominator1 = 1
 print('And the second fraction is', numerator1,'/', denominator1,'.\n')
 
 print('When multiplaying fractions, you mutliply the two numerators together, \n')
-print(' Then you will multiply the two denominators together. \n')
+print('Then you will multiply the two denominators together. \n')
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
