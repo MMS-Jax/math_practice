@@ -42,13 +42,13 @@ print(pie)
 
 print("When you work to divide fractions, you multiply using the reciprocal, or the inverse of the second fraction.\n")
 
-numerator0 = int(input("Please type in the first numerator and press ENTER.\n"))
-numerator1 = int(input("Please type in the second numerator and press ENTER.\n"))
+numerator2 = int(input("Please type in the first numerator and press ENTER.\n"))
+numerator3 = int(input("Please type in the second numerator and press ENTER.\n"))
 
-denominator0 = int(input("Please type in the first denominator and press ENTER.\n"))
-denominator1 = int(input("Please type in the second denominator and press ENTER.\n"))
+denominator2 = int(input("Please type in the first denominator and press ENTER.\n"))
+denominator3 = int(input("Please type in the second denominator and press ENTER.\n"))
 
-new_numerator = denominator0 * numerator1
-new_denominator = numerator0 * denominator1
+new_numerator1 = denominator2 * numerator3
+new_denominator1 = numerator2 * denominator3
 
-print("The new fraction is,", new_numerator,"/", new_denominator,".\n")
+print("The new fraction is,", new_numerator1,"/", new_denominator1,".\n")
