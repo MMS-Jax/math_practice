@@ -1,4 +1,4 @@
-#isabella S. , multiplying and dividing fractions 05/06/2019 version 0.3
+#isabella S. , multiplying and dividing fractions 05/06/2019 version 0.5
 
 print("hello! my name is super math bot i will multiply and divide fractions for you!\n")
 user_name = input("what is your name? [Type your name and press ENTER.]\n")
@@ -22,4 +22,4 @@ print("then you will multiply the two denomenators together\n")
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
-print("the new fraction is", new_numerator1,"/",new_denominator1,".\n")
+print("the new fraction is", new_numerator,"/",new_denominator,".\n")
