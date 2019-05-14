@@ -1,4 +1,4 @@
-# Zayne D. Program will Multiply and Divide Fractions, 5/09/2019, Version 0.7
+# Zayne D. Program will Multiply and Divide Fractions, 5/09/2019, Version 1.0
 
 print('Hi, Wlecome to Dividing/Multiplying Fractions. I will multiply any fraction you give me. \n')
 user_name = input('What is your name? (Type the name you prefer and then press ENTER.) \n')
@@ -43,7 +43,10 @@ numerator1 = int(input("Type the second numerator and press enter.\n"))
 denominator0 = int(input("Type the first denominator and press enter.\n"))
 denominator1 = int(input("Type the second denominator and press enter.\n"))
 
-new_numerator = numerator0 * denominator1
-new_denominator = denominator0 * numerator1
+new_numerator = denominator0 * numerator1
+new_denominator = numerator0 * denominator1
 
-print("And the new fraction is", new_numerator,"/",new_denominator,".\n")
+print("The first fraction is", numerator0,"/",denominator0,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
+
+print("That means that the new fraction is", new_numerator,"/",new_denominator,".\n")
