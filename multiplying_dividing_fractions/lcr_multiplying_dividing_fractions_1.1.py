@@ -1,4 +1,4 @@
-#Luke R, Multiplying and Dviding Fractions, 5/06/19, version 1.0
+#Luke R, Multiplying and Dviding Fractions, 5/06/19, version 1.1
 
 print("Hello, my name is Fraction-Bot9000. I will multiply and divide fractions for you.\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
