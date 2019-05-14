@@ -23,8 +23,8 @@ print("Then you will multiply the two demoninators together. \n")
 numerator0 = int(input("Type the first denominator and press enter.\n"))
 numerator1 = int(input("Type the second denominator and press enter.\n"))
 
-denominator0 = int(input)("Type the first denominator and press enter.\n"))
-denominator1 = int(input)("Type the second denominator and press enter.\n"))
+denominator0 = int(input("Type the first denominator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
@@ -45,11 +45,12 @@ numerator1 = 0
 denominator1 = 0
 print("The first fraction is", numerator1,"/", denominator1,".\n")
 
-new_numerator = numerator0 * numerator1
-new_denominator = denominator0 * denominator1
 
 numerator0 = int(input("Type the second numerator and press enter.\n"))
 numerator1 = int(input("Type the second numerator and press enter.\n"))
 
 denominator0 = int(input("Type the first numerator and press enter.\n"))
 denominator1 = int(input("Type the second denominator and press enter.\n"))
+
+new_numerator = numerator0 * numerator1
+new_denominator = denominator0 * denominator1
