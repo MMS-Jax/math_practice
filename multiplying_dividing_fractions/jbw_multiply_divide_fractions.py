@@ -1,4 +1,4 @@
-# Joseph W., Multiplying and Dividing Fractions, 05/06/2019, version 0.4
+ Joseph W., Multiplying and Dividing Fractions, 05/06/2019, version 0.4
 
 print ("Hello! My name is Fractionator.   I will multiply and divide fractions for you.\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
@@ -19,7 +19,21 @@ print("The second fraction is", numerator1,"/",denominator1,".\n")
 print("When multiplying fractions you multiply the two numerators together.\n")
 print("then you will multiply the two denominators together.\n")
 
+numerator0 = int(input("Type the first numerator and press enter.\n")) 
+numerator1 = int(input("Type the second numerator and press enter.\n"))
+
+denominator0 = int(input("Type the first denominator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
+
+print("The first fraction is", numerator0,"/",denominator0,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
+
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
+
+# This is where the division of the fractions will start. You will need to change this code!
+pie = 22 / 7
+print(pie)
+print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
