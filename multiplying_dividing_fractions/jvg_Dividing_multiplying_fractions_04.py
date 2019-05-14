@@ -19,16 +19,7 @@ print("The second fraction is", numerator1,"/",denominator1,".\n")
 print("What multiplying fractions you multiply the two numerators together.\n")
 print("Then you will multiply the two denominators together. \n")
 
-new_numerator = numerator0 * numerator1
-new_denominator = denominator0 * denominator1
-
-print("The new fraction is", new_numerator,"/",new_denominator,".\n")
-
-# this is where the division of the fractions will start
-pie = 22 / 7
-print(pie)
-print("to divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
-
+           = int(input("Type the fir"))                      
 
 
 
