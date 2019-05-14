@@ -1,4 +1,4 @@
-# Multiplying and Dividing Fractions by Trey R. 05/06/19 Version 1.0
+# Multiplying and Dividing Fractions by Trey R. 05/06/19 Version 1.2
 
 print ("Welcome, I am Fraction-Bot 2000. I can multiply and divide fractions for you. \n")
 user_name = input("What is your name? [Type your name and press ENTER.] \n")
@@ -49,9 +49,4 @@ new_denominator = denominator0 * numerator1
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
-numerator0 = int(input("Type the first numerator and press enter.\n"))
-numerator1 = int(input("Type the second numerator and press enter.\n"))
-
-denominator0 = int(input("Type the first denominator and press enter.\n"))
-denominator1 = int(input("Type the second denominator and press enter.\n"))
 
