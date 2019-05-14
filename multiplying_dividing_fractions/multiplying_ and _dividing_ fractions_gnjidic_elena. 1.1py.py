@@ -1,4 +1,4 @@
-# Multiplying and Dividing fractions Elena G. 5/6/19 version 0.5
+# Multiplying and Dividing fractions Elena G. 5/6/19 version 1.1
 
 print ("Welcome I am Multiplying-Bot 3000. I can Multiply and Divide fractions for you. \n")
 user_name = input("what is your name? [Type your name and press ENTER.  ]\n")
