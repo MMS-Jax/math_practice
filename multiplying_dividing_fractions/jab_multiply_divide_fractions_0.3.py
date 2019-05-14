@@ -5,5 +5,9 @@ user_name = input("What is your name? [Type your name and press ENTER.]\n")
 print("Hello, ", user_name,"how are you today?\n")
 print("In Order to Multiply or divide fractions we need to know the numerator and the denominator.\n")
 
+# Variable for fration 0.
 numerator0 = 0
+denomerator0 = 0
+# Variable for fracion 1.
 numerator1 = 0
+denomerator1 = 0
