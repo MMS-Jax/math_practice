@@ -1,4 +1,4 @@
-# Jadin R., Multiplying and Dividing Fractions, 05/09/2019, version 0.4
+# Jadin R., Multiplying and Dividing Fractions, 05/09/2019, version 0.5
 
 print ("Hello, welcome to fraction cowboy 69.   I can multiply and divide fractions for you!\n")
 user_name = input ("what is your name? [Type your name and press ENTER.]\n")
@@ -21,3 +21,5 @@ print("Then you multiply the denominators together.\n")
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
+
+print("The new fraction is", new_numerator,"/",new_denominator,".\n")
