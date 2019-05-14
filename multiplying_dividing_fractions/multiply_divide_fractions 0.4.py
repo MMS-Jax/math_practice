@@ -14,4 +14,4 @@ print("The first fraction is", numerator0,"/",denominator0,".\n")
 #VAriables for frcation 1.
 numerator1= 0
 denominator1= 0
-print("The first fraction is", numerator1,"/",denominator1,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
