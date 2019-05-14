@@ -9,7 +9,7 @@ print("For this program, I need to know the numerator and denominator for both t
 # Variables for fraction 0.
 numerator0 = 0
 denominator1 = 0
-print("The first fraction is", numerator0,"/",denominator0,".\n")
+print("The first fraction is", numerator0,"/", denominator1,".\n")
 
 # Variables for fraction 1.
 numerator0 = 0
