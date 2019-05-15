@@ -1,4 +1,4 @@
-#Roman H, Multiplying and Dividing Fractions, 05/15/2019, version 0.4
+#Roman H, Multiplying and Dividing Fractions, 05/15/2019, version 0.5
 
 print("Hey, i'm the fraction man, I do the stuff with multiply and divide the fraction.\n")
 
@@ -18,7 +18,7 @@ numerator1 = 0
 denominator1 = 0
 print("The second fraction is" , numerator1, "/",denominator1, ".\n")
 
-print("When you multiply the fractions. you gotta multiply the two numerators together.\n")
+print("When you multiply the fractions, you gotta multiply the two numerators together.\n")
 print("Then you multiply the two denominators together.\n")
 
 new_numerator = numerator0 * numerator1
