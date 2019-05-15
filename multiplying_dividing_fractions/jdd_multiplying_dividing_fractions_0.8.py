@@ -1,4 +1,4 @@
-# Jeremy D., Multiplyng and Dividing Fractions, 05/10/19, version 0.0
+# Jeremy D., Multiplyng and Dividing Fractions, 05/10/19, version 0.8
 
 print("Hello, welcome to Fraction-Bot 9000.   I can multiply and divide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
@@ -33,7 +33,9 @@ new_denominator = denominator0 * denominator1
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
-# This is where the division of the fractions will start. You will need to change this code!
-pie = 22 / 7
-print(pie)
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
+print("I will reuse the two fractions from earlier to make a new fraction.\n")
+new_numerator = numerator0 * denominator1
+new_denominator = numerator1 * denominator0
+
+print ("The new fraction is", new_numerator,"/", new_denominator, ".\n")
