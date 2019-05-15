@@ -33,10 +33,13 @@ print("The second fraction is", numerator1,"/",denominator1,".\n")
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
-print("The new fraction is",new_numerator, "/", new_denominator, ". \n" ) # Print the new fraction on the screen. 
+print("The Muliplyed fraction is",new_numerator, "/", new_denominator, ". \n" ) # Print the new fraction on the screen. 
 
-# This is where the division of the fractions will start. You will need to change this code!
-print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
 
-# YOU NEED TO WRITE THE CODE TO PROPERLY DIVIDE THE TWO FRACTIONS.   
+# YOU NEED TO WRITE THE CODE TO PROPERLY DIVIDE THE TWO FRACTIONS.
 # If you need help please see me.  I have an example on the board to help you. 
+
+new_numerator = numerator0 * denominator1
+new_denominator = numerator1 * denominator0
+
+print("The Divided fraction is",new_numerator, "/", new_denominator, ". \n" ) # Print the new fraction on the screen. 
