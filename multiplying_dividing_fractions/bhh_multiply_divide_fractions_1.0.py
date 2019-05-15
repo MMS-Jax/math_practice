@@ -1,4 +1,4 @@
-# Ben H., Multiplying and Divivding Fractions, 05/06/2019, version 0.9
+# Ben H., Multiplying and Divivding Fractions, 05/06/2019, version 1.0
 
 print("Hello! My name is Fraction Master- Over 9000. I will ultiply and divide fractions for you!\n ")
 user_name = input("What is your name is your name? {Type your name and press ENTER.}\n")
