@@ -37,4 +37,3 @@ print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 pie = 22 / 7
 print(pie)
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
-
