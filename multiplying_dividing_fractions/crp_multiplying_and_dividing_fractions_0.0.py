@@ -1,4 +1,4 @@
- # Powell C., Multiplying and Divide Fractions, 05/06/2019 Ver 0.6
+ # Powell C., Multiplying and Divide Fractions, 05/06/2019 Ver 0.0
 
 print("Hello, my name is Youngmathboi. I will multiply and divide fractions for you.\n")
 user_name = input("What is your name? [Type your name and press ENTER.\n")
