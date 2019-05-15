@@ -27,3 +27,4 @@ print("The new fraction is", new_numerator, "/", new_denominator,". \n")
 # This is where the divisions of the fractions starts
 pie = 22/7
 print(pie)
+print("To divide a fracton, you will multiply using the reciprocal or the inverse of the second fraction. \n")
