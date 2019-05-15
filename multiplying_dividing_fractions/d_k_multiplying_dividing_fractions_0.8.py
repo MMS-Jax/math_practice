@@ -1,4 +1,4 @@
-# Kailey D., Multiplying and Dividing Fractions, 05/06/2019, version 0.6
+# Kailey D., Multiplying and Dividing Fractions, 05/06/2019, version 0.7
 
 print("Hello! My name is FattoCattoPugFraction and I will multiply and Divide Fractions for you.\n")
 user_name = input("What is your name? [ Type your name and press ENTER.]\n")
