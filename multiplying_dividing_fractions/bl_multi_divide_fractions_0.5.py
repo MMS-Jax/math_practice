@@ -1,4 +1,4 @@
-# Multiplying and Dividing Fractions by Bryce L. 05/06/19 Version 0.4
+# Multiplying and Dividing Fractions by Bryce L. 05/06/19 Version 0.5
 
 print ("Welcome, I am Fraction-Bot 8000. I can multiply and divide fractions for you.\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
