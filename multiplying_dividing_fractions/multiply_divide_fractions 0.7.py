@@ -39,7 +39,7 @@ numerator1 = int(input("Type the second numerator and press enter.\n"))
 denomenator0 = int(input("Type the first denominator and press enter.\n"))
 denomenator1 = int(input("Type the second denominator and press enter.\n"))
 
-new_numerator = denomenator0 / numerator1
-new_denomenator = numerator0 / denomenator1
+new_numerator = numerator0 / denomenator1
+new_denomenator = denomenator0 / numerator1
 
 print("The new fraction is", new_numerator,"/", new_denomenator, ".\n")
