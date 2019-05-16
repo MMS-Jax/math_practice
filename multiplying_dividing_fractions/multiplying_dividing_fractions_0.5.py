@@ -17,7 +17,7 @@ denominator1 = 0
 print("The second fraction is", numerator1,"/",denominator1,".\n")
 
 print("When multiplying frations you multiply the two numerators.\n")
-print("Then you will multiply the two denominators together.\n")Jaidyn
+print("Then you will multiply the two denominators together.\n")
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
