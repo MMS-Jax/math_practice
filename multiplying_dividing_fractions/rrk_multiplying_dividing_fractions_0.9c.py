@@ -21,7 +21,7 @@ print("Then you will multiply the two denominators together.\n")
 
 # Input the first fraction. 
 numerator0 = int(input("Type the first numerator and press enter.\n")) 
-denominator0 = int(input("Type the first denominator and press enter.\n"))
+denominator0 = int(input("Type the first denominator and press enter.\n")) 
 
 # Input the second fraction. 
 numerator1 = int(input("Type the second numerator and press enter.\n"))
