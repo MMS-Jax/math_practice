@@ -24,11 +24,41 @@ new_denominator = denominator0 * denominator1
 
 print("The new fraction is", new_numerator,"/", new_denominator,".\n")
 
+# Input the first fraction.
+numerator0 = int(input("Type the first numerator and press enter.\n")) 
+denominator0 = int(input("Type the first denominator and press enter.\n"))
+
+# Input the second fraction. 
+numerator1 = int(input("Type the second numerator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
+
+print("The first fraction is", numerator0,"/",denominator0,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
+
+new_numerator = numerator0 * numerator1 # Multiply the two numerators together. 
+new_denominator = denominator0 * denominator1 # Multiply the two denominators together.
+
+print("The new fraction is", new_numerator,"/",new_denominator,".\n") # Print the new fraction on the screen. 
+
+# This is where the division of the fractions will start. You will need to change this code!
+print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
 
 
+# Input the first fraction. 
+numerator0 = int(input("Type the first numerator and press enter.\n")) 
+denominator0 = int(input("Type the first denominator and press enter.\n"))
 
+# Input the second fraction. 
+numerator1 = int(input("Type the second numerator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
 
+print("The first fraction is", numerator0,"/",denominator0,".\n")
+print("The second fraction is", numerator1,"/",denominator1,".\n")
 
+new_numerator = numerator0 * denominator1 # Multiply the numerator by it's reciprocal. 
+new_denominator = denominator0 * numerator1 # Multiply the denominator by it's reciprocal.
+
+print("The new fraction is", new_numerator,"/",new_denominator,".\n") # Print the new fraction on the screen. 
 
 
 
