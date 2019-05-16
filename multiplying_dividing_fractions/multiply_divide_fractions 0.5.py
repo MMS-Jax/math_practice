@@ -23,3 +23,6 @@ new_numerator = numerator0 * numerator1
 new_denomenator = denomenator0 * denomenator1
 
 print("The new fraction is", new_numerator,"/", new_denomenator, ".\n")
+
+#This is where the division of fractions will start.
+print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction. \n")
