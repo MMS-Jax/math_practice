@@ -1,4 +1,4 @@
-# kris m, mulitiplying and dividing fractions 05/09/2019 virsion 0.91
+# kris m, mulitiplying and dividing fractions 05/09/2019 virsion 1.0
 
 print("Hello,  I can multiply and divide fractions for you so you can get good grades in math class!\n")
 
