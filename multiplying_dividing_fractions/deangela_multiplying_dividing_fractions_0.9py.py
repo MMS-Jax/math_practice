@@ -32,3 +32,4 @@ print("The new fraction is", new_numerator,"/", new_denominator,".\n")
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
 new_numerator = numerator0 * denominator1
 new_denominator = denominator0 * numerator1
+print( 21/20)
