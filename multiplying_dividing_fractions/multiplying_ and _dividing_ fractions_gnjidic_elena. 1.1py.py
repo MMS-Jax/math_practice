@@ -51,6 +51,9 @@ print("the new fraction is", new_numerator,"/", new_denominator, ".\n" )
 new_numerator = numerator0 * denominator1
 new_denominator = denominator0 * numerator1 
 
+print("the new fraction is", new_numerator,"/", new_denominator, ".\n" )
+
+
   
 
 
