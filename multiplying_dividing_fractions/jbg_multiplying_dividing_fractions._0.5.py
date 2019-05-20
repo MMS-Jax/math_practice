@@ -1,4 +1,4 @@
-# Jeremy G., Multiplying and Divide Fractions, 05/6/19 version 0.3
+# Jeremy G., Multiplying and Divide Fractions, 05/6/19 version 0.5
 
 print("Hello, welcome to Fraction Bot 9000.  I can multiply and divide fractions for you\n")
 user_name = input("whats your name? [Type your name and press Enter.\n")
@@ -18,3 +18,8 @@ print("the first fraction is" , numerator1, "/" , denominator1, ".\n")
 
 print("When multiplying fractions you multiply the two numerators together.\n")
 print("then you will multiply the two denominators together.\n")
+
+new_numerator = numerator0 * numerator1
+new_denominator = denominator0 * denominator1
+
+print("the new fraction is", new_numerator,"/",new_denominator,".\n")
