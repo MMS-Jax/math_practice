@@ -31,7 +31,7 @@ print("The second fraction is", numerator1,"/", denominator1,".\n")
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
-print("The new fraction is", new_numerator,"/", new denominator, ".\n")
+print("The new fraction is", new_numerator,"/", new_denominator, ".\n")
 
 # This is where the division of the fraction will start
 
@@ -39,4 +39,4 @@ print("To divide a fraction, you will multiply using the reciprocal or inverse o
 
 new_numerator1 = numerator0 * denominator1
 new_denominator = denominator0 * numerator1
-print("The new fraction is",new_numerator, ."/", new denominaator, ".\n"
+print("The new fraction is",new_numerator, "/", new_denominator, ".\n")
