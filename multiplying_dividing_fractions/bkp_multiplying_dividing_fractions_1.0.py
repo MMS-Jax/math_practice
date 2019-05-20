@@ -36,3 +36,7 @@ print("The new fraction is", new_numerator,"/", new denominator, ".\n")
 # This is where the division of the fraction will start
 
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction")
+
+new_numerator1 = numerator0 * denominator1
+new_denominator = denominator0 * numerator1
+print("The new fraction is",new_numerator, ."/", new denominaator, ".\n"
