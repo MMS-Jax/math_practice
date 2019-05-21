@@ -23,3 +23,4 @@ new_nemerator = nemerator0 * nemerator1
 new_denomonator = denomonator * denomotor1
 
 print("the new fraction is",neaw_numerator,"/",new_denominator,".\n" )
+
