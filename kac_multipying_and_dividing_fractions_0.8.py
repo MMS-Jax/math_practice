@@ -28,12 +28,12 @@ denominator1 = int(input("Type the second denominator and press enter.\n"))
 print("The first fraction is", numerator0,"/",denominator0,".\n")
 print("The second fraction is", numerator1,"/",denominator1,".\n")
 
-new_numerator =  numerator * numerator1
+new_numerator =  numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
-numerator0 * denominator1
-numerator1 * denominator0
-print("The new fraction is", new_numerator,"/",new_denominator,".\n"
+new_numerator0 * denominator1
+new_numerator1 * denominator0
+print("The new fraction is", new_numerator,"/",new_denominator,".\n")
