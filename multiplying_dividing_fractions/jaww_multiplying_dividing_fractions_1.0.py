@@ -1,4 +1,4 @@
-# Jonathan W., Multiplying and Dividing Fractions, 05/08/2019, version 0.7
+# Jonathan W., Multiplying and Dividing Fractions, 05/08/2019, version 1.0
 
 print("Hello, welcome to Math-Bot 8000.   I can multiply and divide fractions for you!\n")
 user_name = input("What is your name?  [Type your name and press ENTER]\n")
