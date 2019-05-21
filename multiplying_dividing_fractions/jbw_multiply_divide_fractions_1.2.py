@@ -1,4 +1,4 @@
-#Joseph W., Multiplying and Dividing Fractions, 05/06/2019, version 1.1
+#Joseph W., Multiplying and Dividing Fractions, 05/06/2019, version 1.2
 
 print ("Hello! My name is Fractionator.   I will multiply and divide fractions for you.\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
