@@ -1,1 +1,1 @@
-# Ryan K., Multiplying and Dividing Fractions, 05/06/2019, version 0.0
+# Trystan K., Multiplying And Dividing Fractions version 0.0
