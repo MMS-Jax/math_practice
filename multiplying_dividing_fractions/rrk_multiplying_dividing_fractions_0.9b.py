@@ -39,3 +39,7 @@ print("The new fraction is", new_numerator,"/",new_denominator,".\n") # Print th
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
 
 
+new_numerator = numerator0 * denominator1 # Multiply the two numerators together. 
+new_denominator = denominator0 * numerator1 # Multiply the two denominators together.
+
+print("The new fraction is", new_numerator,"/",new_denominator,".\n") # Print the new fraction on the screen.

@@ -33,7 +33,7 @@ new_denominator = denominator0 * denominator1 # Multiply the two denominators to
 
 print("The new fraction is", new_numerator,"/",new_denominator,".\n") # Print the new fraction on the screen. 
 
-# This is where the division of the fractions will start. 
-pie = 22/7
-print(pie)
+# This is where the division of the fractions will start.
+
 print("To divide a fraction,you will multiply the reciprocal or inverse of the second fraction.\n")
+
