@@ -1,4 +1,4 @@
-# David E., Multiplying and Dividing Fractions, 05/06/2019, version 0.8
+# David E., Multiplying and Dividing Fractions, 05/06/2019, version 0.9
 
 print("Hello My name is MethSolver 2398. I will multiply and divide fractions for you.\n")
 user_name = input ("What is your name? [Type your name and press ENTER.]\n")
@@ -40,3 +40,9 @@ print("To divide a fraction, you will multiply using the reciprocal or inverse o
 
 print("The first fraction is", numerator0,"/", denominator0,".\n")
 print("The second fraction is", numerator1,"/", denominator1,".\n")
+
+numerator0 = int(input("Type the first numerator and press enter.\n"))
+numerator1 = int(input("Type the second numerator and press enter.\n"))
+
+denominator0 = int(input("Type the first denominator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
