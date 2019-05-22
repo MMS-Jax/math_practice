@@ -1,4 +1,4 @@
-# Gabriella O. , Multiply and  Divide Fractions, 05/20/19
+# Gabriella O. , Multiply and  Divide Fractions, 05/20/19 ver. 1.0
 
 print("Hello, My name is Mathbot 1000. I can multiply and divide fractions for you.\n")
 user_name = input("What is your name?\n")
