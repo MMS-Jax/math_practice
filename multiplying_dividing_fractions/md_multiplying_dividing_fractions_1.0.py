@@ -41,8 +41,7 @@ print("To divide a fraction, you will multiply using the reciprocal or inverse o
 print("The first fraction is", numerator0,"/",denominator0,".\n")
 print("The second fraction is",numerator1,"/", denominator1,".\n")
 
-numerator0 = int(input("Type the first numerator and press enter.\n")) 
-numerator1 = int(input("Type the second numerator and press enter.\n"))
+new_numerator = numerator0 * denominator1 # Multiply the numerator and denominator together.
+new_denominator = denominator0 * numerator1 # Multiply the denominator amd the numerator together.
 
-denominator0 = int(input("Type the first denominator and press enter.\n"))
-denominator1 = int(input("Type the second denominator and press enter.\n"))
+print("The new fraction is",new_numerator,"/",new_denominator,".\n") # Print the new fraction on the screen.
