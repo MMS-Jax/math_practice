@@ -4,4 +4,4 @@ print('welcome to fraction-bot 15! would you like me to multiply and divide frac
 user_name = input("what is your name? [type your name and press ENTER.]\n")
 print("hello,", user_name,"how are you today?")
 
-print("for this ")
+print("for this program, i need to know the numerator and the denominator for both fractions. \n")
