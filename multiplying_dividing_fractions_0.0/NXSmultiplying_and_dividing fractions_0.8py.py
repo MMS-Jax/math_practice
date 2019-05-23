@@ -15,8 +15,6 @@ denominator1=0
 denominator0 = int(input("Type the first denominator and press enter.\n"))
 denominator1 = int(input("Type the second denominator and press enter.\n"))
 
-numerator0 = int(input("Type the first denominator and press enter.\n"))
-numerator1 = int(input("Type the second denominator and press enter.\n"))
 numerator0 = int(input("Type the first numerator and press enter.\n"))
 numerator1 = int(input("Type the second numerator and press enter.\n"))
 
@@ -48,6 +46,4 @@ new_denominator= denominator0 * numerator1
 
 
 
-
-print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
 
