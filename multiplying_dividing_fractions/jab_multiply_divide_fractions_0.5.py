@@ -13,7 +13,12 @@ print("the first fractions is", numerator0,"/",denominator0,".\n")
 # Variable for fracion 1.
 numerator1 = 0
 denomerator1 = 0
-print("The second fraction 
+print("The second fraction is",numeratorl,"/",denominator1,".\n"
 
 print("when multiplying fractions you multiply the two numerator together.\n")
-print("Then you will multiply the two denominators together.\n")
+print("Then you will multiply the two denominators togethe
+
+new_numerator = numerator0 * numerator1
+new_denominator = denominator0 * denomerator1
+
+print("the new fraction is", new_numerator,"/",new_denominator,".\n")
