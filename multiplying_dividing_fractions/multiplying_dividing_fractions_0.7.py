@@ -1,4 +1,4 @@
-# Ryan K., Multiplying and Dividing Fractions, 05/06/2019, version 0.7
+# Tyler A. , Multiplying and Dividing Fractions, 05/06/2019, version 0.7
 
 print("Hello, welcome to Fraction-Bot 9000.   I can multiply and divide fractions for you!\n")
 user_name = input("What is your name? [Type your name and press ENTER.]\n")
@@ -36,4 +36,4 @@ print("The new fraction is", new_numerator,"/",new_denominator,".\n")
 # This is where the division of the fractions will start. 
 pie = 22 / 7
 print(pie)
-print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
+print("To divide a fraction, you will using the reciprocal or inverse of the second fraction.\n")
