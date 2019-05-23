@@ -1,4 +1,4 @@
-#Julia L ., Multiply and Dividing Fractions
+#Julia L ., Multiply and Dividing Fractions version 1.0
 
 print('Hello my name is fractionbot 900 I multiply and divide frcations.\n')
 user_name = input('What is your name?\n')
