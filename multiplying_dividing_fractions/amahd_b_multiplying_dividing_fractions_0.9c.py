@@ -42,3 +42,4 @@ print("To divide a fraction, you will multiply using the reciprocal or inverse o
 # If you need help please see me.  I have an example on the board to help you. 
 new_numerator = numerator0 * denominator1 # Multiply numerator0 by denominator1.
 new_denominator = denominator0 * numerator1 #Mutiply denominator0 by numerator1.
+print("The new fraction is", new_numerator,"/",new_denominator,".\n") # Print the new fraction on the screen. 
