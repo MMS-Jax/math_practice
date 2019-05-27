@@ -1,1 +1,0 @@
-This repository will contain code for the Math Practice with Python lessons.  
