@@ -26,7 +26,7 @@ print('Okay I see you MORE.', new_numerator,'/', new_denominator,'.\n')
 
 # This is where division starts.
 
-print('To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.')
+print('To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n')
 
 numerator0 = int(input('and the first numerator is...? type your number and hit ENTER\n'))
 numerator1 = int(input('and the second numerator is...? type your number and hit ENTER\n'))
