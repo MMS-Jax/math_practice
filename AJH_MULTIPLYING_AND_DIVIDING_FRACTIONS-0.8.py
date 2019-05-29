@@ -1,4 +1,4 @@
-#AARON_HUNGERMAN, MULTIPLY AND DIVIDE FRACTIONS, 5-6-19, 0.7
+#AARON_HUNGERMAN, MULTIPLY AND DIVIDE FRACTIONS, 5-6-19, 1.0
 
 print("YO! WUT IZZZzzz UP. IMA GONNA DO UR MATH CUZZZzzz ima DR. Savage FractionZZZzzz!!!!!!!!!!!!!!!!!!!!!!!!!!!\n")
 print("to do the multipying and dividing of fractions savgely we must know blank and blank about them")
@@ -19,12 +19,21 @@ print("The second savage fraction is", numerator1, "/",denominator1,".\n")
 
 print("When multiplying savage fractions you multiply the two numerators together. \n")
 print("Then you must multiply the denominators. \n")
+#input first fraction
+numerator0 = int(input("type the first numerator and press enter. \n"))
+denominator0 = int(input("type the first denominator and press enter. \n"))
+
+# Input the second fraction. 
+numerator1 = int(input("Type the second numerator and press enter.\n"))
+denominator1 = int(input("Type the second denominator and press enter.\n"))
 
 new_numerator = numerator0 * numerator1
 new_denominator = denominator0 * denominator1
 print("The new savage fraction is" , new_numerator, "/" , new_denominator, ". \n")
 
 #dis iz where division will start
-pie = 22 / 7
-print(pie)
 print("To divide a fraction, you will multiply using the reciprical or inverse of the second fraction. \n")
+
+new_numerator1 = denominator0 * numerator1
+new_denominator1 = numerator0 * denominator1
+print("The new savage fraction is" , new_numerator1, "/" , new_denominator1, ". \n")
