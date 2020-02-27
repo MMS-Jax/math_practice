@@ -71,7 +71,11 @@ else:
 		exit()
 time.sleep(2)
 
-# This is where the division of the fractions will start. You will need to change this code!
+# Print the new fraction. 
+print("The new fraction is",new_numerator,"/",new_denominator,".")
+print("Wasn't that easy?")
+time.sleep(2)
+
+# Dividing Fractions Starts Here 
 print("To divide a fraction, you will multiply using the reciprocal or inverse of the second fraction.\n")
 
-# Please add the code to divide fractions.  Ask for help if necessary! 
