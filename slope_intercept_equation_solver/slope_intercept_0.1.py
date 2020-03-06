@@ -12,11 +12,13 @@ is_slope_fraction = int(input("Is the slope a fraction?  Type 0 for no, type 1 f
 if is_slope_fraction == 0:
     m = int(input("Please enter the slope as a whole number then press enter."))
     print("The slope is",m,".")
+    time.sleep(5)
 elif is_slope_fraction == 1: 
     numerator = int(input("Please enter NUMERATOR (top number) of the slope."))
-    denominator = int(input("Please enter the DENOMINATOR (bottomr number) of the slope."))
+    denominator = int(input("Please enter the DENOMINATOR (bottom number) of the slope."))
     m = (numerator / denominator)
     print("The slope is",m,".")
+    time.sleep(5)
 else:
     print("You have done something wrong. I am going to exit.  Please restart.")
     time.sleep(5)
@@ -24,15 +26,17 @@ else:
 
 print("Ok, now I have the slope and the y-intercept.  I can start solving equations here shortly.")
 
-num_coords = int(input("How many coordinate pairs do you want to know?  Please enter a whole number and press enter."))
+x = int(input("Please type an integer value for x then press enter."))
 
-
-x = -3
-
-while x < 3:
-    y = round(((m*x) + b))
-    print(x,y)
+loop_count = 0
+num_coords = int(input("How many cooridnate pairs would you like me to calculate?"))
+                 
+print("The coordinate pairs in (x,y) format are as follows:")
+while loop_count < num_coords:
+    y = ((m*x) + b)
+    print(x,",",y)
     x += 1
+    loop_count += 1
 
 
     
